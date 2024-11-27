@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Keshav T M</h1>
-<h3 align="center">A passionate Computer science student from India</h3>
-<hr>
+<h2 align="center">A passionate Computer science student from India</h2>
+
+
 # 💫 About Me:
 - 🔭 I’m currently working on **Waste Management system**
 
